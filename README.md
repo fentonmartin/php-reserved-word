@@ -2,7 +2,9 @@
 
 Terdapat sebuah aplikasi yang dapat mengubah text
 > "setyagus sucipto sedang makan"
+
 menjadi
+
 > "makan sedang sucipto setyagus"
 
 Setiap kata akan diubah posisi nya tanpa mengubah lokasi dengan pemisah adalah "whitespace"
